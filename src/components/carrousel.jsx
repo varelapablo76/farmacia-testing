@@ -12,6 +12,14 @@ const Carrousel = () => {
         />
       </Carousel.Item>
 
+      <Carousel.Item className='carousel-img' >
+        <img
+          className="d-block w-100"
+          src="offer/v1.5BannerTV-13.png"
+          alt="First slide"
+        />
+      </Carousel.Item>
+
       <Carousel.Item className='carousel-img'>
         <img
           className="d-block w-100"
